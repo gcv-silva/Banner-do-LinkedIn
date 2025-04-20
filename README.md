@@ -9,5 +9,5 @@ Este projeto aproveita o poder do Manim CE, uma biblioteca Python para animaçõ
 
 **Tecnologias Utilizadas:**
 - Linguagem de programação: Python
-- Ambiente (IDE): Google Colaboratory
+- Ambiente (IDE-web): Google Colaboratory
 - Bibliotecas e ferramentas: Manim, Numpy, Matplotlib, SciPy, Pillow, mpl_toolkits.mplot3d
